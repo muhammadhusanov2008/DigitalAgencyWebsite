@@ -1,0 +1,263 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.asd{
+    width: 200px;
+}
+.home{
+    overflow: hidden;
+    color: white;
+    background: url('Img/image\ 2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+}
+i{
+    color: white;
+}
+.fgh{
+    padding: 10px;
+    border-left: 4px solid #FF7425;
+}
+.uio h1{
+    font-size: 100px;
+    font-weight: bold;
+    color: #272727;
+}
+.dfg{
+    /* margin-top:0px; */
+    background: #FF7425;
+    border-radius: 50%;
+    padding: 20px;
+}
+.rasmlar img{
+    margin-top: 30px;
+    width: 50px;
+    border-radius: 50%;
+    /* padding: -10px; */
+}
+.wer{
+    font-weight: bold;
+}
+.qwr{
+    width: 300px;
+}
+.upo{
+    font-size: 20px;
+}
+.puma{
+    overflow: hidden;
+    background: black;
+    color: white;
+}
+.djl{
+    background: #333333;
+    border-radius: 50%;
+    padding: 20px;
+}
+.nbu img{
+    width: 200px;
+}
+.nbu h5{
+    font-weight: bold;
+}
+.sft{
+    margin-top: 40%;
+}
+.cfg img{
+    width: 350px;
+}
+.are{
+    overflow: hidden;
+    background: #000;
+    color: white;
+}
+.zxc i{
+    color: #FF7425;
+    padding: 10px;
+    border-radius: 50%;
+}
+.jkl{
+    display: flex;
+}
+.jkl p{
+    margin-top: 5px;
+}
+.azx h1{
+    font-weight: bold;
+}
+.project{
+    overflow: hidden;
+    background: #000;
+    color: white;
+}
+.qlj{
+    display: flex;
+}
+.harf{
+    margin-left: 10px;
+}
+.son{
+    font-weight: bold;
+    font-size: 40px;
+}
+.avb{
+    border-left: 4px solid #FF7425;
+}
+.qfr{
+    background: #333333;
+    border-radius: 50%;
+    padding: 20px;
+}
+.work{
+    overflow: hidden;
+    background: #181818;
+    color: white;
+}
+.dispaly{
+    margin-top: 10px;
+    display: flex;
+}
+.dispaly img{
+    width: 100px;
+}
+.mfg{
+    background: url('Img/image\ 13.png');
+    background-repeat: no-repeat;
+    background-size: 600px;
+}
+.how{
+    overflow: hidden;
+    background: #181818;
+    color: white;
+}
+.odam{
+    display: flex;
+}
+.wtu{
+    color: #FF7425;
+}
+.odam img{
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.aqa i{
+    background: rgb(83, 83, 83);
+    padding: 20px;
+    border-radius: 50%;
+}
+.make{
+    overflow: hidden;
+    background: #181818;
+    color: white;
+}
+.find{
+    display: flex;
+    justify-content: space-between;
+    background: rgb(83, 83, 83);
+    margin-top: 10px;
+    padding: 20px;
+}
+.doira{
+    margin-top: 10px;
+    margin-left: 30%;
+    width: 50%;
+    height: 45%;
+    background: #333333;
+    border-radius: 50%;
+    padding: 20px;
+}
+.doira img{
+    width: 30px;
+    /* margin-bottom: 40px; */
+}
+.mgq{
+    margin-top: 10%;
+}
+.ccv{
+    font-weight: bold;
+    /* font-size: 40px; */
+}
+.alo{
+    background: #838383;
+    border-radius: 50%;
+    padding: 20px;
+}
+.aor{
+    display: flex;
+}
+.chek{
+    overflow: hidden;
+    background: #181818;
+    color: white;
+}
+.qqw{
+    width: 20px;
+    height: 30px;
+    margin-left: 10px;
+}
+.tel{
+    display: flex;
+    background: #FF7425;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.footer{
+    overflow: hidden;
+    background: #111111;
+    color: white;
+}
+.ulash{
+    display: flex;
+}
+.dsa{
+    margin-left: 40px;
+}
+.ijtimoiy{
+    display: flex;
+    justify-content: space-around;
+    /* padding-right: 100px; */
+}
+.Facebook{
+    font-weight: bold;
+    color: rgb(99, 149, 255);
+    border-right: 4px solid #333333;
+}
+.Twitter{
+    font-weight: bold;
+    color: rgb(81, 205, 252);
+    border-right: 4px solid #333333;
+}
+.Dribble{
+    font-weight: bold;
+    color: rgb(240, 127, 170);
+    border-right: 4px solid #333333;
+}
+.Instagram{
+    font-weight: bold;
+    color: rgb(139, 73, 171);
+}
+.qmf{
+    font-weight: bold;
+    font-size: 40px;
+}
+.pusa{
+    display: flex;
+}
+.lili{
+    margin-left: 30px;
+}
+.privas{
+    padding: 10px;
+    border-top: 1px solid #333333;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
